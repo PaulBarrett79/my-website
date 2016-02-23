@@ -1,14 +1,42 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Paul Barrett
+email: waves@paulbarrettdev.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.paulbarrettdev.com" # the base hostname & protocol for your site
+twitter_username: paulbarrett79
+github_username:  paulbarrett79
 
 # Build settings
 markdown: kramdown
+
+intro: ""
+
+portfolio:
+  - title: "Year Of The Fiery Horse"
+    weblink: "http://www.yotfh.com"
+    description: > # 
+      A website using Jekyll for my brother's band Year Of The Fiery Horse. They're based in Liverpool. 
+      The band wanted the site to fit with their E.P. cover design.
+    thumb: "yotfh-thumb.png"
+
+  - title: "ChemBio Hub"
+    weblink: "http://chembiohub.ox.ac.uk"
+    description: > #  
+      A website again using Jekyll for my current role as web developer at the University of Oxford. 
+      We had to make this fit the colour scheme and branding guidelines of the University as well as look professional 
+      to show to external funding bodies and University policy makers. All of our work within ChemBio Hub is open source 
+      and designed to foster collaboration between chemical and biological researchers as well as reduce duplication of 
+      effort.
+    thumb: "cbh-thumb.png"
+
+  - title: "The SGC"
+    weblink: "http://www.thesgc.org"
+    description: > #  
+      This was a Drupal install which I set up to replace a PHP site for The SGC within University of Oxford. 
+      We went through a few iterations in terms of the design, information architecture and theming. 
+      I last had involvement in 2014 but the site retains a lot of the core work I did.
+    thumb: "sgc-thumb.png"

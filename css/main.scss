@@ -45,5 +45,72 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "portfolio"
 ;
+
+@font-face {
+    font-family: 'natasharegular';
+    src: url('/assets/fonts/natasha/natasha-webfont.eot');
+    src: url('/assets/fonts/natasha/natasha-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/natasha/natasha-webfont.woff2') format('woff2'),
+         url('/assets/fonts/natasha/natasha-webfont.woff') format('woff'),
+         url('/assets/fonts/natasha/natasha-webfont.ttf') format('truetype'),
+         url('/assets/fonts/natasha/natasha-webfont.svg#natasharegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1 {
+	font-family: natasharegular;
+	letter-spacing: -0.1em;
+}
+.site-header {
+	background-color: $darkblue;
+	background: $darkblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient($darkblue, $otherblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient($darkblue, $otherblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient($darkblue, $otherblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient($darkblue, $otherblue); /* Standard syntax */
+	h1 {
+		color: white;
+		font-size: 7vw;
+		text-align:center;
+		/* line-height:0.5em; */
+		small {
+			color:white;
+			letter-spacing: 1em;
+			font-size:2vw
+		}
+	}
+	border-color:$lighterblue;
+	border-bottom:10px solid $lighterblue;
+	border-top: none;
+}
+h1.page-heading {
+	font-size:3vw;
+	color: $darkblue;
+	padding-bottom:5px;
+	border-bottom:1px solid $lighterblue;
+
+}
+p {
+	font-size:20px;
+}
+.lightblue {
+	color: $lighterblue	
+}
+a {
+	font-weight: bold;
+}
+footer {
+	background-color:#444;
+	border-top: 10px solid #ddd;
+	color:#ddd;
+}
+
+@include media-query($on-laptop) {
+    h1.page-heading {
+		font-size:5vw;
+	}
+}
