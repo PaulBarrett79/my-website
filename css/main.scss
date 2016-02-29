@@ -108,6 +108,59 @@ footer {
 	border-top: 10px solid #ddd;
 	color:#ddd;
 }
+/* transition to appear on load */
+.list-inline > li.onload {
+	-webkit-transform: translateX(20px);
+	-moz-transform: translateX(20px);
+	-ms-transform: translateX(20px);
+	transform: translateX(20px);
+	opacity: 0;
+	/* transition: transform 0.3s ease-in-out, opacity 0.2s 0.1s ease-in-out; */
+	-webkit-transition: all 0.3s 0.5s ease-in-out;
+	-moz-transition: all 0.3s 0.5s ease-in-out;
+	-ms-transition: all 0.3s 0.5s ease-in-out;
+	transition: all 0.3s 0.5s ease-in-out;
+}
+.list-inline > li.onload.twitter {
+	-webkit-transition: all 0.3s 0.8s ease-in-out;
+	-moz-transition: all 0.3s 0.8s ease-in-out;
+	-ms-transition: all 0.3s 0.8s ease-in-out;
+	transition: all 0.3s 0.8s ease-in-out;
+}
+.list-inline > li.onload.github {
+	-webkit-transition: all 0.3s 1.1s ease-in-out;
+	-moz-transition: all 0.3s 1.1s ease-in-out;
+	-ms-transition: all 0.3s 1.1s ease-in-out;
+	transition: all 0.3s 1.1s ease-in-out;
+}
+.list-inline > li.onload.linkedin {
+	-webkit-transition: all 0.3s 1.4s ease-in-out;
+	-moz-transition: all 0.3s 1.4s ease-in-out;
+	-ms-transition: all 0.3s 1.4s ease-in-out;
+	transition: all 0.3s 1.4s ease-in-out;
+}
+.list-inline > li.onload.email {
+	-webkit-transition: all 0.3s 1.7s ease-in-out;
+	-moz-transition: all 0.3s 1.7s ease-in-out;
+	-ms-transition: all 0.3s 1.7s ease-in-out;
+	transition: all 0.3s 1.7s ease-in-out;
+}
+.list-inline > li.onload.afterload {
+	-webkit-transform: none;
+	-moz-transform: none;
+	-ms-transform: none;
+	transform: none;
+	opacity: 1;
+}
+
+
+.list-inline > li a img {
+    transition:0.2s ease-in-out background-color;
+}
+.list-inline > li a img:hover {
+    background-color: $lighterblue;
+    border-radius: 10px;
+}
 
 @include media-query($on-laptop) {
     h1.page-heading {

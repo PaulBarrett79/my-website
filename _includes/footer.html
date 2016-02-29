@@ -1,30 +1,33 @@
 <footer class="site-footer">
-
-  <div class="container">
-<div class="row">
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-
-      <div class="footer-col  footer-col-3">
-        <nav class="nav text-center">
-      <ul class="list-unstyled list-inline">
-        <li><a href="https://twitter.com/paulbarrett79" target="_blank"><img src="/assets/img/twitter.png" alt="Twitter logo" title="Paul on Twitter" class="img img-responsive"></a></li>
-        <li><a href="https://github.com/paulbarrett79" target="_blank"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="GitHub logo" title="Paul on GitHub" class="img img-responsive"></a></li>
-        <li><a href="https://uk.linkedin.com/in/paul-barrett-89040426" target="_blank"><img src="/assets/img/linkedin.png" alt="LinkedIn logo" title="Paul on LinkedIn" class="img img-responsive"></a></li>
-        <li><a href="mailto:{{site.email}}" target="_blank"><img src="/assets/img/mail-icon.png" alt="Email icon" title="Paul on Email" class="img img-responsive"></a></li>
-      </ul>
-    </nav>
-      </div>
+    <div class="container">
+        <div class="row">
+            <h2 class="footer-heading">{{ site.title }}</h2>
+            <div class="footer-col-wrapper">
+                <div class="footer-col pull-left">
+                    <ul class="contact-list">
+                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li><a href="http://twitter.com/{{site.twitter_username}}">twitter.com/{{ site.twitter_username }}</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col pull-right">
+                    <nav class="nav text-center">
+                        <ul class="list-unstyled list-inline">
+                            <li>
+                                <a href="https://twitter.com/paulbarrett79" target="_blank"><img src="/assets/img/twitter.png" alt="Twitter logo" title="Paul on Twitter" class="img img-responsive"></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/paulbarrett79" target="_blank"><img src="/assets/img/GitHub-Mark-Light-32px.png" alt="GitHub logo" title="Paul on GitHub" class="img img-responsive"></a>
+                            </li>
+                            <li>
+                                <a href="https://uk.linkedin.com/in/paul-barrett-89040426" target="_blank"><img src="/assets/img/linkedin.png" alt="LinkedIn logo" title="Paul on LinkedIn" class="img img-responsive"></a>
+                            </li>
+                            <li>
+                                <a href="mailto:{{site.email}}" target="_blank"><img src="/assets/img/mail-icon.png" alt="Email icon" title="Paul on Email" class="img img-responsive"></a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-  </div>
-
 </footer>

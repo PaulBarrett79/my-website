@@ -20,17 +20,21 @@ portfolio:
     weblink: "http://www.yotfh.com"
     description: > # 
       A website using Jekyll for my brother's band Year Of The Fiery Horse. They're based in Liverpool. 
-      The band wanted the site to fit with their E.P. cover design.
+      I originally built a single page site which acted as an aggregator for their social media presence and also 
+      their music online. The band then wanted the site redesigned to fit with their E.P. cover designs as well as having a 
+      simple "newsfeed". I thought that Jekyll was a good fit for that as it didn't need a lot of dynamic elements. 
+      I have plans to migrate this again to Wordpress or another alternative like Ghost so the guys can update news 
+      on there themselves.
     thumb: "yotfh-thumb.png"
 
   - title: "ChemBio Hub"
     weblink: "http://chembiohub.ox.ac.uk"
     description: > #  
       A website again using Jekyll for my current role as web developer at the University of Oxford. 
-      We had to make this fit the colour scheme and branding guidelines of the University as well as look professional 
-      to show to external funding bodies and University policy makers. All of our work within ChemBio Hub is open source 
-      and designed to foster collaboration between chemical and biological researchers as well as reduce duplication of 
-      effort.
+      I had to make this fit the colour scheme and branding guidelines of the University as well as look clean and professional 
+      to show to external funding bodies and University policy makers. I had regular feedback from various stakeholders and 
+      made appropriate additions based on that. All of our work within ChemBio Hub is open source and designed to foster 
+      collaboration between chemical and biological researchers as well as reduce duplication of effort.
     thumb: "cbh-thumb.png"
 
   - title: "The SGC"
@@ -38,5 +42,7 @@ portfolio:
     description: > #  
       This was a Drupal install which I set up to replace a PHP site for The SGC within University of Oxford. 
       We went through a few iterations in terms of the design, information architecture and theming. 
-      I last had involvement in 2014 but the site retains a lot of the core work I did.
+      I last had involvement in 2014 but the site retains a lot of the core work I did. For example, the Structure Gallery 
+      at <a href="www.thesgc.org/structures" target="_blank">www.thesgc.org/structures</a> is a jQuery and Isotope based filter I built 
+      which allows an external database to be viewed within Drupal.
     thumb: "sgc-thumb.png"
