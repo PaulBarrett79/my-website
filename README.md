@@ -1,3 +1,3 @@
 # Portfolio
 
-Going to set up a portfolio / profile site using jekyll. Code will be here. Oh yeah!
+My portfolio site using jekyll. Now live at http://www.paulbarrettdev.com . Oh yeah!
