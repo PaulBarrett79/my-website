@@ -40,9 +40,31 @@ portfolio:
   - title: "The SGC"
     weblink: "http://www.thesgc.org"
     description: > #  
-      This was a Drupal install which I set up to replace a PHP site for The SGC within University of Oxford. 
+      This was a Drupal install which I set up to replace a basic PHP site for The Structural Genomics Consortium (SGC) within University of Oxford. 
       We went through a few iterations in terms of the design, information architecture and theming. 
       I last had involvement in 2014 but the site retains a lot of the core work I did. For example, the Structure Gallery 
-      at <a href="www.thesgc.org/structures" target="_blank">www.thesgc.org/structures</a> is a jQuery and Isotope based filter I built 
+      at <a href="http://www.thesgc.org/structures" target="_blank">www.thesgc.org/structures/</a> is a jQuery and Isotope based filter I built 
       which allows an external database to be viewed within Drupal.
     thumb: "sgc-thumb.png"
+
+uxportfolio:
+ - title: "ChemBiog user profile designs"
+   description: > #
+     As part of the ChemBio Hub project, we had one prospective idea of having a social network for postdoctoral and postgraduate 
+     research scientists who didn't have as much of a web presence as project leaders. I was asked to come up with some designs of how 
+     such an application might work and also designs of some embeddable widgets which could be used within departmental sites. Although this 
+     work was temporarily postponed due to more urgent commitments, it could still be used by future incumbents of the project.
+   thumbs:
+     - "/assets/Mockups/chembiog/individual-widget-1.png"
+     - "/assets/Mockups/chembiog/individual-widget-1.png"
+     - "/assets/Mockups/chembiog/individual-widget-1.png"
+     - "/assets/Mockups/chembiog/individual-widget-1.png"
+
+ - title: "ChemBio Hub search redesign"
+   description: > #
+     As part of the ChemBio Hub project, we had one prospective idea of having a social network for postdoctoral and postgraduate 
+     research scientists who didn't have as much of a web presence as project leaders. I was asked to come up with some designs of how 
+     such an application might work and also designs of some embeddable widgets which could be used within departmental sites. Although this 
+     work was temporarily postponed due to more urgent commitments, it could still be used by future incumbents of the project.
+   thumbs:
+     - "/assets/Mockups/chembiog/individual-widget-1.png"

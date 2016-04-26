@@ -34,6 +34,30 @@ layout: default
 
     {% endfor %}
 
+
+    {% for item in site.uxportfolio %}
+    
+      <h1 class="page-heading">{{item.title}}</h1>
+      <div class="row">
+        
+        <div class="col-sm-12">
+          <p>{{item.description}}</p>
+          <div class="row">
+            {% for pic in item.thumbs  %}
+            <div class="col-xs-4 col-sm-3">
+              <img src="{{pic}}" class="img img-responsive img-thumbnail">
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        
+          
+        
+      </div>  
+    
+
+    {% endfor %}
+
   <div class="row">
     <div class="col-xs-12">
       <h1 class="page-heading">When I'm not developing...</h1>

@@ -31,16 +31,22 @@ module.exports = function(grunt) {
       main: {
         files: [{
             expand: true, // Enable dynamic expansion
-            cwd: 'img', // Where to find images
+            cwd: 'assets/img', // Where to find images
             src: '*.{png,PNG,jpg,JPG,gif,GIF,jpeg,JPEG}', // Search for all image types
-            dest: 'img' // Where to save compressed images to (overwrite)
+            dest: 'assets/img' // Where to save compressed images to (overwrite)
+          },
+          {
+            expand: true, // Enable dynamic expansion
+            cwd: 'assets/Mockups', // Where to find images
+            src: ['**/*.{png,PNG,jpg,JPG,gif,GIF,jpeg,JPEG}'], // Search for all image types
+            dest: 'assets/Mockups' // Where to save compressed images to (overwrite)
           }],
         },
     },
     uncss: {
       dist: {
         options: {
-          stylesheets: ['css/main.css','css/normalize.css','css/yotfh.css'] // List of stylesheets to clean up
+          stylesheets: ['css/main.css'] // List of stylesheets to clean up
         },
         files: {
           '_site/css/clean.css': ['_site/index.html'], // What files to check for usage
@@ -56,6 +62,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-uncss');
 
   // Default task(s).
-  grunt.registerTask('default', ['imagemin', 'uncss', 'cssmin']);
+  grunt.registerTask('default', ['imagemin', 'cssmin']);
+  grunt.registerTask('images', ['imagemin']);
 
 };
