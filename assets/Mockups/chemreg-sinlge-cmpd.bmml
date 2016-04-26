@@ -1,0 +1,123 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1502" measuredH="447" mockupW="1299" mockupH="434">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="811" y="35" w="-1" h="-1" measuredW="261" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>ChemBio%20Hub%20ChemReg</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="1365" y="35" w="111" h="-1" measuredW="83" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>472931</color>
+        <direction>center</direction>
+        <icon>ContactIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <newLayout>true</newLayout>
+        <text>Paul%20B</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::LinkBar" x="1179" y="39" w="-1" h="-1" measuredW="163" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+        <text>Search%2C%20Projects%2C%20Admin</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Paragraph" x="354" y="78" w="212" h="37" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>472931</color>
+        <size>24</size>
+        <text>ChemReg%20Wizard</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Label" x="566" y="83" w="352" h="-1" measuredW="192" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>Add%20single%20or%20multiple%20compunds</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Canvas" x="354" y="28" w="1148" h="40" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::PointyButton" x="361" y="35" w="145" h="-1" measuredW="131" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>472931</color>
+        <direction>center</direction>
+        <icon>FolderIcon%7Csmall</icon>
+        <menuIcon>true</menuIcon>
+        <newLayout>true</newLayout>
+        <text>Project%20One</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Canvas" x="354" y="13" w="1148" h="17" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>472931</borderColor>
+        <color>472931</color>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::StickyNote" x="203" y="20" w="151" h="166" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>other%20projects%20you%20have%20access%20to%20are%20available%20from%20a%20dropdown%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Image" x="1151" y="165" w="-1" h="-1" measuredW="237" measuredH="213" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/largestruc.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Canvas" x="416" y="162" w="614" h="223" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Paragraph" x="581" y="249" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Registered%20chemical%20details%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::PointyButton" x="871" y="420" w="145" h="-1" measuredW="133" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>472931</color>
+        <direction>center</direction>
+        <icon>DownloadIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <newLayout>true</newLayout>
+        <text>Download%20SDF</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::PointyButton" x="431" y="420" w="111" h="-1" measuredW="83" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>472931</color>
+        <direction>center</direction>
+        <icon>ContactIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <newLayout>true</newLayout>
+        <text>Paul%20B</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="445" y="399" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Registered%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::PointyButton" x="644" y="420" w="152" h="-1" measuredW="118" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>472931</color>
+        <direction>center</direction>
+        <icon>FolderIcon%7Csmall</icon>
+        <menuIcon>false</menuIcon>
+        <newLayout>true</newLayout>
+        <text>Project%20One</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::Label" x="677" y="399" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Registered%20to</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,320 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1457" measuredH="609" mockupW="1064" mockupH="588">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="393" y="38" w="-1" h="-1" measuredW="385" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deoxycytidine%20kinase</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="393" y="21" w="-1" h="-1" measuredW="229" measuredH="17" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Heirarchy%20%3E%3E%20Breadcrumbs%20%3E%3E%20Here</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="725" y="108" w="558" h="-1" measuredW="335" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>472931</color>
+        <size>20</size>
+        <text>People%20working%20on%20this%20also%20work%20on...</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::PointyButton" x="757" y="141" w="119" h="-1" measuredW="119" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Myeloperoxidase</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::PointyButton" x="932" y="143" w="144" h="-1" measuredW="144" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Histone%20Deacetylase</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::PointyButton" x="786" y="511" w="-1" h="-1" measuredW="169" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Coupled%20Enzyme%20Activity</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::PointyButton" x="785" y="411" w="-1" h="-1" measuredW="170" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Fluorescence%20Microscopy</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Canvas" x="398" y="93" w="305" h="516" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::SubTitle" x="398" y="108" w="305" h="-1" measuredW="262" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>472931</color>
+        <size>20</size>
+        <text>Other%20people%20working%20on%20this</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="141" w="279" h="73" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Graham%20McClorey</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="148" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="218" w="279" h="73" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Joe%20Bloggs</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="225" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="295" w="279" h="73" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Joe%20Bloggs</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="302" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="372" w="279" h="73" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Joe%20Bloggs</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="379" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="449" w="279" h="73" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Joe%20Bloggs</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="456" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="169" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="246" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="323" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="400" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="477" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="186" w="-1" h="-1" measuredW="35" measuredH="17" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Also%3A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::SubTitle" x="452" y="186" w="-1" h="-1" measuredW="135" measuredH="17" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6989903</color>
+        <size>14</size>
+        <text>Deoxycytidine%20kinase</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="525" w="279" h="73" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <size>16</size>
+        <text>Joe%20Bloggs</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Icon" x="650" y="532" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>ContactIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::SubTitle" x="417" y="553" w="-1" h="-1" measuredW="203" measuredH="17" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <size>14</size>
+        <text>Postdoctoral%20Research%20Scientist</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::RoundButton" x="771" y="177" w="90" h="90" measuredW="32" measuredH="32" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>60</size>
+        <text>21</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::RoundButton" x="959" y="177" w="90" h="90" measuredW="32" measuredH="32" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>60</size>
+        <text>16</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::RoundButton" x="1147" y="177" w="90" h="90" measuredW="32" measuredH="32" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>60</size>
+        <text>8</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::PointyButton" x="1139" y="143" w="-1" h="-1" measuredW="106" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <text>Bromodomains</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::StickyNote" x="1309" y="203" w="148" h="119" measuredW="109" measuredH="123" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>scroll%20these%20so%20there%20are%20up%20to%209%20possibilities%20%283%20lots%20of%203%29%20-%20scroll%20left%20to%20right%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::SubTitle" x="733" y="317" w="550" h="-1" measuredW="333" measuredH="23" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>472931</color>
+        <size>20</size>
+        <text>Assays%20associated%20with%20this%20include...</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::RoundButton" x="1083" y="379" w="90" h="90" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>60</size>
+        <text>21</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::SubTitle" x="785" y="283" w="-1" h="-1" measuredW="62" measuredH="17" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>scientists</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::SubTitle" x="973" y="283" w="-1" h="-1" measuredW="62" measuredH="17" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>scientists</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::SubTitle" x="1161" y="283" w="-1" h="-1" measuredW="62" measuredH="17" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>scientists</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::SubTitle" x="1005" y="416" w="-1" h="-1" measuredW="51" measuredH="17" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>used%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::SubTitle" x="1186" y="416" w="-1" h="-1" measuredW="62" measuredH="17" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>scientists</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::RoundButton" x="1083" y="479" w="90" h="90" measuredW="32" measuredH="32" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>472931</color>
+        <size>60</size>
+        <text>21</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::SubTitle" x="1005" y="516" w="-1" h="-1" measuredW="51" measuredH="17" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>used%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::SubTitle" x="1186" y="516" w="-1" h="-1" measuredW="62" measuredH="17" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <size>14</size>
+        <text>scientists</text>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Canvas" x="718" y="102" w="565" h="35" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
